@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the accompanying paper."
+title: "YouTube Topology Comparator"
+type: software
+authors:
+  - family-names: "dos Santos"
+    given-names: "Phelipe Rodovalho"
+  - family-names: "Pereira"
+    given-names: "Fabiola S. F."
+year: 2026
+license: MIT
+abstract: >-
+  A Streamlit system for comparing YouTube channels using structural metrics
+  computed from observable public subscription networks.
